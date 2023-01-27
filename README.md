@@ -1,6 +1,6 @@
 # Center for Environmental Studies: Unit By-Laws
 
-*First Drafted 15 June 2017, Ratified by VCU Provost Office 27 September 2019*
+*First Drafted 15 June 2017; Ratified by VCU Provost Office 27 September 2019*
 
 These Bylaws describe the procedures by which the Center for Environmental Studies (CES) in VCU Life Sciences (VCULS) at Virginia Commonwealth University (VCU) self-governs. Through the structure and processes outlined in these Bylaws, CES encourages faculty, post-doctoral fellows, academic and research professionals, and students to seek a productive balance between education, research, and service. These Bylaws are binding upon current and future administrative officers and members of this academic unit. These bylaws apply to all members of VCU Life Sciences (VCULS), including tenured/tenure-eligible, non-tenure-track individuals and staff.
 
