@@ -130,7 +130,7 @@ Term faculty are those who are hired to perform teaching and/or research activit
 
 #### Affiliate Faculty
 
-Affiliate Faculty are individuals who are appointed to a unit outside the Center for Environmental Studies, either in another unit at VCU or from outside the VCU community. They may only be affiliated with the CES for specific research and/or teaching purposes. Affiliate faculty members may attend faculty meetings but they may not vote in Center matters or elections. Policies governing Affiliate Faculty Appointments are provided by the Office of the Provost.
+Affiliate Faculty are individuals who are appointed to a unit outside the Center for Environmental Studies, either in another unit at VCU or from outside the VCU community. They may only be affiliated with the CES for specific research and/or teaching purposes. Affiliate faculty members may attend faculty meetings but they may not vote in Center matters or elections. Policies governing [Affiliate Faculty Appointments](https://www.policy.vcu.edu/sites/default/files/Affiliate%20Faculty%20Appointments.pdf) are provided by the Office of the Provost.
 
 #### Adjunct Faculty
 
@@ -162,11 +162,11 @@ The promotion of faculty in the Center shall follow the [Life Sciences Promotion
 
 #### Eligibility
 
-Eligibility for tenure/continuing status and notification is governed by VCU Faculty Promotion and Tenure Policies and Procedures and it is the responsibility of the Director to notify candidates of their eligibility and to summarize the review process during the semester prior to the deadline for submission of materials. Upon appointment, all faculty shall be informed of the CES policies and criteria for retention and relevant promotions and must be reviewed annually and on the probationary schedule outlined below.
+Eligibility for tenure/continuing status and notification is governed by [VCU Faculty Promotion and Tenure Policies and Procedures](https://policy.vcu.edu/sites/default/files/Faculty%20Promotion%20and%20Tenure%20Policies%20and%20Procedures.pdf) and it is the responsibility of the Director to notify candidates of their eligibility and to summarize the review process during the semester prior to the deadline for submission of materials. Upon appointment, all faculty shall be informed of the CES policies and criteria for retention and relevant promotions and must be reviewed annually and on the probationary schedule outlined below.
 
 #### Evaluation Criteria and Process
 
-Criteria minimally include teaching effectiveness, research excellence, and quality of other creative activities and services to the Center, Life Sciences, University, and Community. Further details on criteria and process can be found in the VCU Faculty Promotion and Tenure Policies and Procedures and the Life Sciences Promotion and Tenure Policy documents.
+Criteria minimally include teaching effectiveness, research excellence, and quality of other creative activities and services to the Center, Life Sciences, University, and Community. Further details on criteria and process can be found in the [VCU Faculty Promotion and Tenure Policies and Procedures](https://policy.vcu.edu/sites/default/files/Faculty%20Promotion%20and%20Tenure%20Policies%20and%20Procedures.pdf) and the [Life Sciences Promotion and Tenure Policy](https://drive.google.com/file/d/14SjWYXc73sfDvfkFbHT25Kb0hZiusdUw/view?usp=sharing) documents.
 
 #### Probationary Reviews
 
@@ -177,21 +177,21 @@ Probationary reviews shall generally occur in the third year of employment as sp
 Following VCU Policy on "Faculty Roles and Rewards" and the VCU Policy on "Annual Assessment of Faculty Performance":
 
 - Faculty roles and rewards must be understood within the context of collective work units, because each unit, whether a large and multifaceted one or a small program, is a key to change and an important unit of productivity. Faculty within each unit must create individualized work plans that are personally meaningful, central to unit life, and consistent with the institutional mission.  
-- Faculty must be fairly and accurately evaluated for excellence within the context of their unit. It is required that all faculty be evaluated in writing every year. As part of that evaluation, each faculty member will develop a written work plan, covering at least a year, and will meet individual, unit, and University goals. These plans may utilize a two to three year planning cycle, but with annual review and evaluation of performance.
+- Faculty must be fairly and accurately evaluated for excellence within the context of their unit. It is required that all faculty be evaluated in writing every year. As part of that evaluation, each faculty member will develop a written work plan, covering at least a year, and will meet individual, unit, and University goals. These plans may utilize a two to three-year planning cycle, but with annual review and evaluation of performance.
 - Each faculty member's individual work plan will have the written approval of the department chair or other unit head, who is responsible for maintaining an appropriate overall mix of teaching, research, and service for his or her unit.
 - The Director will also develop written plans for their work that cover at least a year and that meet the needs of their units and of the University. These plans will be approved in writing by the next higher unit head.
 
 #### Process
 
-The Director will initiate the annual performance review process in accord with Life Sciences Bylaws and follow the guidelines and practices established by CES. Performance-based salary adjustments will be made following the policies and practices of Life Sciences and VCU.
+The Director will initiate the annual performance review process in accordance with Life Sciences Bylaws and follow the guidelines and practices established by CES. Performance-based salary adjustments will be made following the policies and practices of Life Sciences and VCU.
 
 #### Criteria
 
-Criteria for annual reviews as well as those for probationary, promotion, and tenure reviews, minimally include teaching effectiveness, research excellence, and the quality of other creative activities and services to the Center, Life Sciences, University, and Community. Depending on a faculty member’s professional interests and institutional needs, individual faculty work plans may differentiate workload in a particular academic year in accord with VCU policy.
+Criteria for annual reviews as well as those for probationary, promotion, and tenure reviews, minimally include teaching effectiveness, research excellence, and the quality of other creative activities and services to the Center, Life Sciences, University, and Community. Depending on a faculty member’s professional interests and institutional needs, individual faculty work plans may differentiate workload in a particular academic year in accordance with VCU policy.
 
 #### Grievances and Appeals
 
-Grievances and appeals shall follow the University’s Faculty Mediation and Grievance Policy, and appropriate Life Sciences Bylaws and guidelines.
+Grievances and appeals shall follow the University’s [Faculty Mediation and Grievance Policy](https://policy.vcu.edu/sites/default/files/Faculty%20Mediation%20and%20Grievance%20Policy.pdf), and appropriate Life Sciences Bylaws and guidelines.
 
 ### Section 4.3. Post-Tenure Review
 
@@ -199,15 +199,15 @@ The Director shall conduct a post-tenure review of tenured faculty members follo
 
 ## Section 4.4. Hiring of Faculty and Professional Staff
 
-In all cases, the VCU and Life Sciences Bylaws and policies prevail in the hiring of all faculty and professional staff. General hiring plans for CES will be made by the Director in consultation with the Executive Committee and will be submitted to the Vice Provost of Life Sciences. All searches will follow the policies and practices established by VCU, including the VCU Faculty Search Process Guidelines as provided by the Office of the Provost. For Center staff and faculty, the Director is the Hiring Authority.
+In all cases, the VCU and Life Sciences Bylaws and policies prevail in the hiring of all faculty and professional staff. General hiring plans for CES will be made by the Director in consultation with the Executive Committee and will be submitted to the Vice Provost of Life Sciences. All searches will follow the policies and practices established by VCU, including the [VCU Faculty Search Process Guidelines](https://provost.vcu.edu/media/provostdevelopment/media/FacultySearchguidelinesSep2017.pdf) as provided by the Office of the Provost. For Center staff and faculty, the Director is the Hiring Authority.
 
 ## Article V. Teaching Loads
 
 All individuals who have effort allocated to teaching are expected to support the curricular goals of the unit. The amount of teaching for each faculty member will be determined by their teaching effort using the following guidelines. The Director will use Student Contact Hours (SCH which is defined as the # credits for the course multiplied by the number of students) as a metric for determining teaching loads. A baseline of a single 3-credit course with 15 individuals (equal to 45 SCH) per 9-month academic cycle will be used as the benchmark for 10% teaching effort.
 
 The teaching effort for any faculty member may be modified by the Director as follows:
-- Scholarly/research activity, as measured primarily by publication record, funding level, and mentoring of graduate students, will be the primary basis for modification of teaching loads. Faculty with higher research activities may be allocated reduced teaching loads whereas those with low research productivity will have heavier teaching.
-- The teaching load for faculty with large lecture sections, writing-intensive courses, courses with extensive lab preparations, or in the development of new offerings may also be reduced.
+- Scholarly/research activity, as measured primarily by publication records, funding level, and mentoring of graduate students, will be the primary basis for modification of teaching loads. Faculty with higher research activities may be allocated reduced teaching loads whereas those with low research productivity will have heavier teaching.
+- The teaching load for faculty with large lecture sections, writing-intensive courses, courses with extensive lab preparations, or the development of new offerings may also be reduced.
 - As necessary, teaching loads may also be adjusted in response to abnormally high service commitments.
 - Faculty with joint appointments in other units will be allocated teaching in proportion to their entire effort allocation, not just their teaching allocated to the Center. The Director will negotiate, as necessary, with the other unit to ensure that shared faculty are not negatively impacted by their split appointment.
 - Other circumstances/factors, as determined appropriate by the Director, may also be considered for the determination of teaching loads.
